@@ -22,4 +22,5 @@ vue invoke @socheatsok78/vue-cli-plugin-bundlesize
 Please see https://github.com/siddharthkp/bundlesize#readme for usage and configuration guide.
 
 ## License
-Licensed under (MIT)[LICENSE]
+
+Licensed under the [MIT License](LICENSE).
