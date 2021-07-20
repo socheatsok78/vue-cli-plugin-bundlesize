@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:socheatsok78/vue-cli-plugin-bundlesize.git",
+  "homepage": "https://github.com/socheatsok78/vue-cli-plugin-bundlesize#readme",
   "author": "Socheat Sok <alex@socheat.net>",
   "license": "MIT"
 }
