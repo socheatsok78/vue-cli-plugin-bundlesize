@@ -1,5 +1,7 @@
 # @socheatsok78/vue-cli-plugin-bundlesize
 
+> vue-cli plugin to add bundlesize, keep your bundle size in check 📦
+
 ## Install
 
 Install via **Vue CLI**:
