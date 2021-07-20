@@ -1,0 +1,9 @@
+{
+  "name": "@socheatsok78/vue-cli-plugin-bundlesize",
+  "description": "vue-cli plugin to add bundlesize, keep your bundle size in check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:socheatsok78/vue-cli-plugin-bundlesize.git",
+  "author": "Socheat Sok <alex@socheat.net>",
+  "license": "MIT"
+}
