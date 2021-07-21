@@ -19,6 +19,14 @@ yarn add -D @socheatsok78/vue-cli-plugin-bundlesize
 vue invoke @socheatsok78/vue-cli-plugin-bundlesize
 ```
 
+## Usage
+
+```sh
+npm run test:bundlesize
+# or
+yarn test:bundlesize
+```
+
 ## Configurations
 
 Please see https://github.com/siddharthkp/bundlesize#readme for usage and configuration guide.
